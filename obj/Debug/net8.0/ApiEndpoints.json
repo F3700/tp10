@@ -1,5 +1,63 @@
 [
   {
+    "ContainingType": "tpmodul10_103022300003.Controllers.MahasiswaController",
+    "Method": "GetMahasiswa",
+    "RelativePath": "api/Mahasiswa",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "tpmodul10_103022300003.Controllers.MahasiswaController",
+    "Method": "AddMahasiswa",
+    "RelativePath": "api/Mahasiswa",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "mahasiswa",
+        "Type": "tpmodul10_103022300003.Mahasiswa",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "tpmodul10_103022300003.Controllers.MahasiswaController",
+    "Method": "GetMahasiswaById",
+    "RelativePath": "api/Mahasiswa/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "tpmodul10_103022300003.Controllers.MahasiswaController",
+    "Method": "DeleteMahasiswa",
+    "RelativePath": "api/Mahasiswa/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "tpmodul10_103022300003.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",

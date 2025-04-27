@@ -34,3 +34,4 @@ D:\Programming\C#\KPL\tp10\tpmodul10_103022300003\obj\Debug\net8.0\refint\tpmodu
 D:\Programming\C#\KPL\tp10\tpmodul10_103022300003\obj\Debug\net8.0\tpmodul10_103022300003.pdb
 D:\Programming\C#\KPL\tp10\tpmodul10_103022300003\obj\Debug\net8.0\tpmodul10_103022300003.genruntimeconfig.cache
 D:\Programming\C#\KPL\tp10\tpmodul10_103022300003\obj\Debug\net8.0\ref\tpmodul10_103022300003.dll
+D:\Programming\C#\KPL\tp10\tpmodul10_103022300003\obj\Debug\net8.0\tpmodul10_103022300003.sourcelink.json

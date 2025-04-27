@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "D:\\Programming\\C#\\KPL\\tp10\\tpmodul10_103022300003\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8E7A3030-BB9B-4D3E-8BA2-DFB18987BE12}|tpmodul10_103022300003.csproj|d:\\programming\\c#\\kpl\\tp10\\tpmodul10_103022300003\\controllers\\mahasiswacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E7A3030-BB9B-4D3E-8BA2-DFB18987BE12}|tpmodul10_103022300003.csproj|solutionrelative:controllers\\mahasiswacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E7A3030-BB9B-4D3E-8BA2-DFB18987BE12}|tpmodul10_103022300003.csproj|d:\\programming\\c#\\kpl\\tp10\\tpmodul10_103022300003\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E7A3030-BB9B-4D3E-8BA2-DFB18987BE12}|tpmodul10_103022300003.csproj|solutionrelative:mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8E7A3030-BB9B-4D3E-8BA2-DFB18987BE12}|tpmodul10_103022300003.csproj|d:\\programming\\c#\\kpl\\tp10\\tpmodul10_103022300003\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E7A3030-BB9B-4D3E-8BA2-DFB18987BE12}|tpmodul10_103022300003.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E7A3030-BB9B-4D3E-8BA2-DFB18987BE12}|tpmodul10_103022300003.csproj|d:\\programming\\c#\\kpl\\tp10\\tpmodul10_103022300003\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E7A3030-BB9B-4D3E-8BA2-DFB18987BE12}|tpmodul10_103022300003.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E7A3030-BB9B-4D3E-8BA2-DFB18987BE12}|tpmodul10_103022300003.csproj|d:\\programming\\c#\\kpl\\tp10\\tpmodul10_103022300003\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E7A3030-BB9B-4D3E-8BA2-DFB18987BE12}|tpmodul10_103022300003.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +35,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MahasiswaController.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\KPL\\tp10\\tpmodul10_103022300003\\Controllers\\MahasiswaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MahasiswaController.cs",
+              "ToolTip": "D:\\Programming\\C#\\KPL\\tp10\\tpmodul10_103022300003\\Controllers\\MahasiswaController.cs",
+              "RelativeToolTip": "Controllers\\MahasiswaController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAgwDwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:25:33.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mahasiswa.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\KPL\\tp10\\tpmodul10_103022300003\\Mahasiswa.cs",
+              "RelativeDocumentMoniker": "Mahasiswa.cs",
+              "ToolTip": "D:\\Programming\\C#\\KPL\\tp10\\tpmodul10_103022300003\\Mahasiswa.cs",
+              "RelativeToolTip": "Mahasiswa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:22:43.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\KPL\\tp10\\tpmodul10_103022300003\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "D:\\Programming\\C#\\KPL\\tp10\\tpmodul10_103022300003\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:17:40.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\KPL\\tp10\\tpmodul10_103022300003\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Programming\\C#\\KPL\\tp10\\tpmodul10_103022300003\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:16:56.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Programming\\C#\\KPL\\tp10\\tpmodul10_103022300003\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Programming\\C#\\KPL\\tp10\\tpmodul10_103022300003\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-27T07:55:36.305Z",
               "EditorCaption": ""
