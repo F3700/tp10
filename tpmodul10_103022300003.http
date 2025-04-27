@@ -1,0 +1,6 @@
+@tpmodul10_103022300003_HostAddress = http://localhost:5260
+
+GET {{tpmodul10_103022300003_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
